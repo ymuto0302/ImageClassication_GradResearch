@@ -7,7 +7,7 @@
 ---
 ## その他
 - <a href="ImageClassification_topk_accuracy.ipynb">画像認識において Top-K の accuracy を出力するためのコード</a>
-<br>
-一般に損失関数は cross entropy でよいみたい。
-- <a hred="CNN_feature_extraction_plus_SVM_classification.ipynb">CNN による特徴抽出 + SVM による分類</a>
+<br> 一般に損失関数は cross entropy でよいみたい。
+- <a href="CNN_feature_extraction_plus_SVM_classification.ipynb">CNN による特徴抽出 + SVM による分類</a>
+<br>小林（ゆ）さんの読んだ論文に載っていた方法
 ---
